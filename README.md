@@ -27,11 +27,11 @@ Essa abordagem, intercalando períodos de foco total com intervalos, promove a c
 
 ✅ Criação de uma lista de tarefas.
 
-⏳ Adicionar as tarefas do dia ao relatório gerado.
+✅ Lista de imagens armazenadas localmente que se alternam de forma aleatória para o uso do programa offline ou quando ocorrer algum erro na chamada de algumas das APIs.
+
+⏳ Adicionar as tarefas do dia ao relatório gerado ao salvar.
 
 ⏳ Botão para a apagar as tarefas.
-
-✅ Lista de imagens armazenadas localmente que se alternam de forma aleatória para o uso do programa offline ou quando ocorrer algum erro na chamada de algumas das APIs.
 
 ⏳ Uso da API [shibe.doge](https://shibe.online/) para geração de uma lista de imagens aleatórias que se altera a cada execução do programa, que por sua vez são redimensionadas através da [Abstract API ](https://www.abstractapi.com/) para se adequarem a disposição do programa. Cada novo ciclo de trabalho resulta na exibição de uma nova imagem.
 
