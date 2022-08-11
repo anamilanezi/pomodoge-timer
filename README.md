@@ -1,18 +1,17 @@
-<center><img src="doge.ico">
-<h1>Pomodoge Timer</h1></center>
+<p align="center"><img src="doge.ico"></p>
+<h1  align="center">Pomodoge Timer</h1>
 
-O método pomodoro é utilizado para auxiliar na gestão de produtividade, dividindo o nosso tempo de trabalho em ciclos de 25 minutos com pequenos intervalos de 5 minutos entre eles. Após a finalização do quarto ciclo de trabalho, tem-se uma pausa de 20 minutos, e a seguir o processo começa novamente.
-Essa abordagem, intercalando períodos de foco total com intervalos, promove a concentração de forma sustentável, já que um dos seus objetivos é evitar a fadiga mental.
+<p align="justify">O método pomodoro é utilizado para auxiliar na gestão de produtividade, dividindo o nosso tempo de trabalho em ciclos de 25 minutos com pequenos intervalos de 5 minutos entre eles. Após a finalização do quarto ciclo de trabalho, tem-se uma pausa de 20 minutos, e a seguir o processo começa novamente.
+Essa abordagem, intercalando períodos de foco total com intervalos, promove a concentração de forma sustentável, já que um dos seus objetivos é evitar a fadiga mental.</p>
 
-### 🍅 O programa:
+## 🍅 O programa:
 
-O Pomodoge Timer foi criado a partir do projeto do dia 28 no bootcamp 100 Days of Code, da Dra. Angela Yu e pode ser acessado [nesse link](https://github.com/anamilanezi/py-practices/tree/main/100-days-of-code/d021-d030/projects/d28-pomodoro-timer). O programa é desenvolvido utilizando o pacote Tkinter e em sua versão inicial, ele apresentava os botões de "Start" e "Reset", uma contagem simples dos ciclos de trabalho e a troca do título de acordo com o ciclo atual. 
-<center><img src="images/pomodoro.jpg"</center>
+<p align="justify">O Pomodoge Timer foi criado a partir do projeto do dia 28 no bootcamp 100 Days of Code, da Dra. Angela Yu e pode ser acessado <a href="https://github.com/anamilanezi/py-practices/tree/main/100-days-of-code/d021-d030/projects/d28-pomodoro-timer" target="_blank">nesse link</a>. O programa é desenvolvido utilizando o pacote Tkinter e em sua versão inicial, ele apresentava os botões de "Start" e "Reset", uma contagem simples dos ciclos de trabalho e a troca do título de acordo com o ciclo atual.</p>
+<p align="center"><img src="images/pomodoro.jpg"</p>
+<p align="justify">A partir dessa base, com o avanço do bootcamp e as novas técnicas em Python adquiridas, passei a implementar outras funcionalidades ao longo dos dias, chegando a essa primeira versão que segue em aprimoramento.</p>
+<p align="center"><img src="images/pomodoge.jpg"></p>
 
-A partir dessa base, com o avanço do bootcamp e as novas técnicas em Python adquiridas, passei a implementar outras funcionalidades ao longo dos dias, chegando a essa primeira versão que segue em aprimoramento.
-<center><img src="images/pomodoge.jpg"></center>
-
-Algumas das melhorias implementadas ou em desenvolvimento:
+### Algumas das melhorias implementadas ou em desenvolvimento:
 
 ✅ Notificações sonoras a cada início de ciclo com o pacote Playsound.
 
@@ -39,4 +38,6 @@ Algumas das melhorias implementadas ou em desenvolvimento:
 ⏳ Verificar se existe conexão com a internet para então utilizar imagens de API ou imagens offline, assim como verificar se limite de requisições da API não foi atingido (Abstract API possui um limite de dados para seu serviço de redimensionamento gratuíto)
 
 ⏳ Opção de escolher entre imagens de cães e gatos para exibição.
+
+
 
