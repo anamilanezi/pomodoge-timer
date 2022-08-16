@@ -13,6 +13,8 @@ Essa abordagem, intercalando períodos de foco total com intervalos, promove a c
 
 ### Algumas das melhorias já implementadas/em desenvolvimento:
 
+<div align="center"><a href="en-us">[Inglês]</a>  | Português (em construção)</div>
+
 <div align="justify">
 ✅ Notificações sonoras a cada início de ciclo com o pacote Playsound.
 
@@ -30,13 +32,13 @@ Essa abordagem, intercalando períodos de foco total com intervalos, promove a c
 
 ✅ Lista de imagens armazenadas localmente que se alternam de forma aleatória para o uso do programa offline ou quando ocorrer algum erro na chamada de algumas das APIs.
 
+✅ Uso da API <a href="https://shibe.online/" target="_blank">shibe.doge</a> para geração de uma lista de imagens aleatórias que se altera a cada execução do programa, que por sua vez são redimensionadas através da <a href="https://www.abstractapi.com/" target="_blank">Abstract API</a> para se adequarem a disposição do programa. Cada novo ciclo de trabalho resulta na exibição de uma nova imagem - Adicionado em 16/08.
+
+✅  Verificar se existe conexão com a internet para então utilizar imagens de API ou imagens offline, assim como verificar se limite de requisições da API não foi atingido (Abstract API possui um limite de dados para seu serviço de redimensionamento gratuíto) - Adicionado em 16/08.
+
 ⏳ Adicionar as tarefas do dia ao relatório gerado ao salvar.
 
 ⏳ Botão para a apagar as tarefas.
-
-⏳ Uso da API <a href="https://shibe.online/" target="_blank">shibe.doge</a> para geração de uma lista de imagens aleatórias que se altera a cada execução do programa, que por sua vez são redimensionadas através da <a href="https://www.abstractapi.com/" target="_blank">Abstract API</a> para se adequarem a disposição do programa. Cada novo ciclo de trabalho resulta na exibição de uma nova imagem.
-
-⏳ Verificar se existe conexão com a internet para então utilizar imagens de API ou imagens offline, assim como verificar se limite de requisições da API não foi atingido (Abstract API possui um limite de dados para seu serviço de redimensionamento gratuíto)
 
 ⏳ Opção de escolher entre imagens de cães e gatos para exibição.
 
