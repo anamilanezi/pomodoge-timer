@@ -1,4 +1,4 @@
-<p align="center"><img src="doge.ico"></p>
+<p align="center"><img src="images/img.png"></p>
 <h1 align="center">Pomodoge Timer</h1>
 
 <p align="justify">O método pomodoro é utilizado para auxiliar na gestão de produtividade, dividindo o nosso tempo de trabalho em ciclos de 25 minutos com pequenos intervalos de 5 minutos entre eles. Após a finalização do quarto ciclo de trabalho, tem-se uma pausa de 20 minutos, e a seguir o processo começa novamente.
